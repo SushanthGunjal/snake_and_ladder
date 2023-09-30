@@ -1,0 +1,38 @@
+{
+  "number_of_players": 2,
+  "board_size": 100,
+  "number_of_snakes": 2,
+  "number_of_ladders": 2,
+  "snake_pos": [
+    {
+      "start_point": 90,
+      "end_point": 80
+    },
+    {
+      "start_point": 85,
+      "end_point": 75
+    }
+  ],
+  "ladder_pos": [
+    {
+      "start_point": 55,
+      "end_point": 65
+    },
+    {
+      "start_point": 72,
+      "end_point": 82
+    }
+  ],
+  "players": [
+    {
+      "name": "Gaurav",
+      "position": 1
+    },
+    {
+      "name": "Sagar",
+      "position": 1
+    }
+  ],
+  "total_moves": 12,
+  "moves_stratergy": [6, 1, 6, 4, 4, 6, 5, 4, 1, 6, 2, 6]
+}
